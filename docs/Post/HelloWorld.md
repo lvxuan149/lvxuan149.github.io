@@ -4,12 +4,11 @@ date: 2024-09-18 03:09:22
 permalink: /pages/261394/
 categories:
   - VuePress
-  - 知识管理
 tags:
-  - GitHub Actions
-  - VuePress
+  - 知识管理
+   -  VuePress
 ---
-# 240918 配置0xDragon888博客
+# 配置0xDragon888博客
 
 
 ## 0.背景
