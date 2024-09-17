@@ -1,6 +1,6 @@
 # 240918 配置0xDragon888博客
 
-   ---
+  ---
    title: 配置0xDragon888博客
    date: 2024-09-18
    categories:
@@ -9,7 +9,7 @@
    tags:
      - GitHub Actions
      - VuePress
-   ---
+  ---
 
 
 ## 0.背景
