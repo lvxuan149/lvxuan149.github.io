@@ -14,19 +14,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Debug - Show current directory and structure
+        run: |
+          pwd
+          ls -R
       - name: Install dependencies
         run: |
           npm install
           npm list --depth=0
-      - name: Debug - Show directory structure
-        run: |
-          pwd
-          ls -R
       - name: Build site
-        run: |
-          npm run build
-        env:
-          NODE_ENV: production
+        run: npm run build
       - name: Debug - List build output
         run: ls -R docs/.vuepress/dist
       - uses: peaceiris/actions-gh-pages@v3
