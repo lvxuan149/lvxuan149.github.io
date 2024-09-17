@@ -21,8 +21,10 @@ jobs:
           node-version: '20'
       - name: Install dependencies
         run: npm install
-      - name: Build site
-        run: npm run build
+      - name: Clear cache and build site
+        run: |
+          rm -rf docs/.vuepress/.cache docs/.vuepress/.temp
+          npm run build
       - name: Create .nojekyll file
         run: touch docs/.vuepress/dist/.nojekyll
       - name: Upload artifact
@@ -32,7 +34,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Clear cache and build site
-        run: |
-          rm -rf docs/.vuepress/.cache docs/.vuepress/.temp
-          npm run build

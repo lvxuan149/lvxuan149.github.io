@@ -36,6 +36,7 @@ module.exports = {
       location: 3,     // 在导航栏菜单中所占的位置，默认3
       text: '标签'     // 默认 "标签"
     },
+    categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值
   },
   plugins: [
     '@vuepress/back-to-top',
