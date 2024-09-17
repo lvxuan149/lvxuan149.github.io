@@ -49,7 +49,28 @@ module.exports = {
     }
   },
   plugins: [
-    '@vuepress/back-to-top',
-    '@vuepress/medium-zoom',
+    ['@vuepress/blog', {
+      directories: [
+        {
+          id: 'post',
+          dirname: '_posts',
+          path: '/post/',
+          itemPermalink: '/post/:slug',
+        },
+      ],
+      frontmatters: [
+        {
+          id: 'tag',
+          keys: ['tag', 'tags'],
+          path: '/tag/',
+        },
+        {
+          id: 'category',
+          keys: ['category', 'categories'],
+          path: '/category/',
+        },
+      ],
+    }],
   ],
+  // 其他配置...
 }
