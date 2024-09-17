@@ -21,7 +21,15 @@ tags:
 
 ### VuePress
 
-[VuePress (opens new window)](https://vuepress.vuejs.org/zh/)是一个 Vue 驱动的静态网站生成器，正是以`Markdown`为中心的项目结构，它简洁至上的理念正合我心。对于我这个对Vue还算有一些了解的前端，迫不及待的想去使用它来搭建一个我的云笔记网站。
+[VuePress (opens new window)](https://vuepress.vuejs.org/zh/)是一个 Vue 驱动的静态网站生成器，是以`Markdown`为中心的项目结构，将编写好的 MarkDown 文件自动解析为 HTML 文件，它有以下几个特点：
+
+- **简洁** ：以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+
+- **Vue 驱动**：享受 Vue + webpack 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。
+- **高性能** ：VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
+
+
+对于我这个对Vue还算有一些了解的前端，迫不及待的想去使用它来搭建一个我的云笔记网站。
 
 
 ### GitHub Actions 工作流
