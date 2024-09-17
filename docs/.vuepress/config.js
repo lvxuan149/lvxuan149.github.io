@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/', // 如果这是您的用户页面 (username.github.io)，base 应该是 '/'
+  base: '/lvxuan149.github.io',  // 如果您的仓库名是 lvxuan149.github.io，保持这个设置
   title: "0xDragon888's blog",
   description: '积跬步，记当下，好奇心，定瞬间。',
   theme: 'vdoing',

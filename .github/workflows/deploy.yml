@@ -14,19 +14,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Debug - Show current directory and structure
-        run: |
-          pwd
-          ls -R
       - name: Install dependencies
-        run: |
-          npm install
-          npm list --depth=0
+        run: npm ci
       - name: Build site
         run: npm run build
-      - name: Debug - List build output
-        run: ls -R docs/.vuepress/dist
-      - uses: peaceiris/actions-gh-pages@v3
+      - name: Create .nojekyll file
+        run: touch docs/.vuepress/dist/.nojekyll
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/.vuepress/dist
+          force_orphan: true
