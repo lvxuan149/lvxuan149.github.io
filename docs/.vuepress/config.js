@@ -1,6 +1,7 @@
 const { resolve } = require('path')
 
 module.exports = {
+  base: '/your-repo-name/', // 替换为您的仓库名称
   title: "0xDragon888's blog",
   description: '积跬步，记当下，好奇心，定瞬间。',
   theme: 'vdoing', // 确保使用 vdoing 主题
@@ -15,7 +16,7 @@ module.exports = {
       { text: '关于', link: '/about/' },
     ],
     sidebarDepth: 2,
-    logo: 'docs/.vuepress/dist/assets/img/Back.jpg', // 确保 logo 文件存在于 public/img 目录下
+    logo: '/img/Back.jpg', // 修正路径
     repo: 'lvxuan149/your-repo-name', // 更新为您的 GitHub 仓库
     docsDir: 'docs',
     editLinks: true,
@@ -26,7 +27,7 @@ module.exports = {
       link: 'https://github.com/lvxuan149'
     },
     blogger: {
-      avatar: 'docs/.vuepress/dist/assets/img/Profile.jpg', // 确保头像文件存在于 public/img 目录下
+      avatar: '/img/Profile.jpg', // 修正路径
       name: '0xDragon888',
       slogan: '积跬步，记当下，好奇心，定瞬间。'
     },
