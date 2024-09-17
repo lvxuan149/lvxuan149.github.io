@@ -1,7 +1,7 @@
 ---
 title: 配置0xDragon888博客
 date: 2024-09-18 03:09:22
-permalink: /pages/261394/
+permalink: /post/hello-world/
 categories:
   - VuePress
 tags:

@@ -1,7 +1,7 @@
 ---
 title: React和Vue 前端框架的对比
 date: 2024-09-18 05:16:22
-permalink: /pages/261394/
+permalink: /post/vue-vs-react/
 categories:
   - 前端
 tags:
