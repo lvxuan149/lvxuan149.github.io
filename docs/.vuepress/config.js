@@ -13,7 +13,7 @@ module.exports = {
     ],
     sidebar: 'auto',
     sidebarDepth: 2,
-    logo: '/img/logo.png', // 确保这个文件存在
+    logo: '/assets/img/Profile.jpg', // 确保这个文件存在
     author: {
       name: '0xDragon888',
       link: 'https://github.com/lvxuan149'
@@ -36,7 +36,17 @@ module.exports = {
       location: 3,     // 在导航栏菜单中所占的位置，默认3
       text: '标签'     // 默认 "标签"
     },
-    categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值
+    categoryText: '随笔', // 碎片化文章（Post文件夹的文章）预设生成的分类值
+    blogConfig: {
+      category: {
+        location: 2,
+        text: '分类'
+      },
+      tag: {
+        location: 3,
+        text: '标签'
+      }
+    }
   },
   plugins: [
     '@vuepress/back-to-top',
