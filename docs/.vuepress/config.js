@@ -1,7 +1,7 @@
 const { resolve } = require('path')
 
 module.exports = {
-  base: '/your-repo-name/', // 替换为您的仓库名称
+  base: '/lvxuan149.github.io/', // 替换为您的仓库名称
   title: "0xDragon888's blog",
   description: '积跬步，记当下，好奇心，定瞬间。',
   theme: 'vdoing', // 确保使用 vdoing 主题
