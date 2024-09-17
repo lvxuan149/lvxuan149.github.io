@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/logo.png
+heroImage: /img/logo.png  // 确保这个文件存在于 docs/.vuepress/public/img/ 目录中
 heroText: 0xDragon888's blog
 tagline: 积跬步，记当下，好奇心，定瞬间。
 actionText: 开始阅读 →

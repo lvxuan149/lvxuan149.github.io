@@ -1,7 +1,7 @@
 const { resolve } = require('path')
 
 module.exports = {
-  base: '/lvxuan149.github.io/', // 替换为您的仓库名称
+  base: '/', // 如果这是您的用户页面 (username.github.io)，base 应该是 '/'
   title: "0xDragon888's blog",
   description: '积跬步，记当下，好奇心，定瞬间。',
   theme: 'vdoing', // 确保使用 vdoing 主题
@@ -17,7 +17,7 @@ module.exports = {
     ],
     sidebarDepth: 2,
     logo: '/img/Back.jpg', // 修正路径
-    repo: 'lvxuan149/your-repo-name', // 更新为您的 GitHub 仓库
+    repo: 'lvxuan149/lvxuan149.github.io', // 更新为您的实际仓库名
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '编辑此页',
