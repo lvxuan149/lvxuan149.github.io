@@ -62,7 +62,7 @@ Anysphere自诩为应用研究实验室，致力于提高软件开发过程的�
 - 上下文引用：CMD+L添加到chat页面（完全取代代码复制粘贴到Chatgpt）
 - 多模型支持：多模型支持使 Cursor 能够为各种编程需求提供最佳解决方案。
 
-## 2.上手
+## 2.上手Cursor
 
 ### 安装 Cursor
 
@@ -151,11 +151,11 @@ Anysphere自诩为应用研究实验室，致力于提高软件开发过程的�
 
 ### Cursor三方资源
 
-- https://cursorcasts.com/
-- https://cursorlist.com/
-- https://cursor.directory/
-- https://cursor.document.top/
-- https://cursor101.com/
+- [Cursorcasts](https://cursorcasts.com/)
+- [Cursorlist](https://cursorlist.com/)
+- [cursor.Directory](https://cursor.directory/)
+- [Cursor.document](https://cursor.document.top/)
+- [Cursor101](https://cursor101.com/)
 
 ## 5.Cursor竞品
 
@@ -176,9 +176,9 @@ Anysphere自诩为应用研究实验室，致力于提高软件开发过程的�
 
 ## 小结
 
-当技术门槛降低，许愿式开发成为可能，以前是首席Readme工程师，现在更可能是首席Cursor Debug/Prompt工程师。
+当Cursor把技术门槛降低，许愿式开发成为可能，以前是首席Readme工程师，现在更可能是首席Cursor Debug/Prompt工程师。
 
-当AI把技术门槛降低，以后项目的业务逻辑，团队的创造力、个人深度思考就变得非常重要，Do whatever you want。
+当AI编程把技术门槛降低，以后做项目的业务逻辑，团队的创造力、个人深度思考就变得非常重要，Do whatever you want。
 
 
 ## Changelog
