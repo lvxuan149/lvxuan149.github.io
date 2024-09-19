@@ -1,5 +1,5 @@
 ---
-title: Cursor生态链整理
+title: Cusor许愿式开发指南
 date: 2024-09-19 05:13:22
 permalink: /post/cursor
 categories:
@@ -24,7 +24,7 @@ tags:
 > 
 > [Shooter](https://x.com/liushooter)老师说：Cursor出来应该没有人在想转码，程序员都要失业了。
 
-我在[Booming3]()提倡理念：从用户端思考，协作工具统一，更有利于创造出全新的用户体验，所以本文尝试谈谈Cusor的生态链、文化、技巧、使用。
+我在[Booming3]()提倡理念：从用户端思考，协作工具统一，更有利于创造出全新的用户体验，所以本文尝试谈谈Cusor入门、实战、资源、使用。
 
 ## 1.认识Cursor
 
