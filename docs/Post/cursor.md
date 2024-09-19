@@ -114,7 +114,7 @@ Anysphere自诩为应用研究实验室，致力于提高软件开发过程的�
  ![](https://github.com/lvxuan149/picx-images-hosting/raw/master/截屏2024-09-19-07.53.19.7egqhacvod.webp)
  
 
-## 2.Cursor实战
+## 3.Cursor实战
 
 ### Curosr入门
 
@@ -141,7 +141,7 @@ Anysphere自诩为应用研究实验室，致力于提高软件开发过程的�
  - Privacy Mode
 
 
-## 3.Cursor更多资源
+## 4.Cursor更多资源
 
 ### Cursor官方更新
 - [Twitter](https://x.com/cursor_ai)
@@ -157,7 +157,7 @@ Anysphere自诩为应用研究实验室，致力于提高软件开发过程的�
 - https://cursor.document.top/
 - https://cursor101.com/
 
-## 4.Cursor竞品
+## 5.Cursor竞品
 
 
 ### Cursor竞品关注
@@ -174,6 +174,11 @@ Anysphere自诩为应用研究实验室，致力于提高软件开发过程的�
 
 - [完整AI Coding Tools Report](https://synaptic.com/resources/ai-coding-tools-2024/?utm_campaign=AI%20Coding%20Tools%20-%20Sept%202024&utm_source=twitter&utm_medium=social)
 
+## 小结
+
+当技术门槛降低，许愿式开发成为可能，以前是首席Readme工程师，现在更可能是首席Cursor Debug/Prompt工程师。
+
+当AI把技术门槛降低，以后项目的业务逻辑，团队的创造力、个人深度思考就变得非常重要，Do whatever you want。
 
 
 ## Changelog
