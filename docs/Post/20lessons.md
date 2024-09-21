@@ -13,6 +13,17 @@ tags:
 
 # 20条给加密创始人的经验教训
 
+## 写在前面
+
+最近在忙着Solana Radar Hackthoon，刚好看到Breakpint上Alliance DAO 创始人带来的演讲—《20条给加密创始人的经验教训》
+
+[Alliance DAO](https://x.com/alliancedao)算是Crypto最棒的加密孵化器之一，Allance 成立大约五年，这几年为加密世界输送有150家初创项目，估值约为 110 亿美元。
+
+我们熟知的[Tensor](https://x.com/tensor_hq)、[Pump.Fun](https://x.com/pumpdotfun) 早期孵化都是出自Alliance DAO。
+
+所以Alliance DAO创始人的建议对于早期创始人非常有帮助。
+
+## 正文
 
 
 在过去的四年里，我们在建设@Alliance 的过程中意识到，创始人需要两个关键的聚焦领域
@@ -67,12 +78,6 @@ tags:
 
 ### 10. 不要完全接受反馈。
 
-正如你所知，Allance 已经在这里成立了大约五年，这里有我们孵化的一些初创公司，作为创始人，你的目标是理解关键要去哪里。
-
-我们已经有大约 150 家初创公司通过我们的加速器项目，估值约为 110 亿美元。
-
-运用你的直觉来判断你认为产品的发展方向。
-
 
 ### 11.实现 50-100 DAU 的一致性
 
@@ -92,7 +97,7 @@ tags:
 - 正确的答案是去追逐一小群用户。
 
 - 如果没有增长，找出问题并迭代。
-- 
+
 ### 14. 坚持不懈打磨细节
 
 DM Uesrs
@@ -131,7 +136,7 @@ DM Uesrs
 
 
 
-### Ref
+## Ref
 
 
 - [Breakpoint 2024: 产品主题演讲：20 条加密创始人经验教训 (Imran Khan)](https://www.youtube.com/watch?v=o5J7tX492uE)
