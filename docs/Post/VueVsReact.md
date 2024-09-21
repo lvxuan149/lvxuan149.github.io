@@ -3,10 +3,11 @@ title: React和Vue 前端框架的对比
 date: 2024-09-18 05:16:22
 permalink: /post/vue-vs-react/
 categories:
-  - 前端
+  - Code
 tags:
   - React
   -  Vue
+  -  Development Framework
 ---
 
 # React和Vue前端框架的对比

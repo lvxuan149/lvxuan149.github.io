@@ -3,10 +3,10 @@ title: 配置0xDragon888博客
 date: 2024-09-18 03:09:22
 permalink: /post/hello-world/
 categories:
-  - VuePress
+  - Blog
 tags:
-  - 知识管理
-   -  VuePress
+  - Knowledge Management
+  -  VuePress
 ---
 # 配置0xDragon888博客
 

@@ -3,7 +3,7 @@ title: Cusor许愿式开发指南
 date: 2024-09-19 05:13:22
 permalink: /post/cursor
 categories:
-  - Cursor
+  - AI
 tags:
   - Tools
   -  AI Coding
