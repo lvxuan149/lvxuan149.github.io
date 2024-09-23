@@ -12,22 +12,25 @@ tags:
 
 ## 0.说在前面
 
-为了充分利用Next.js，建议对 HTML、CSS 和 React 有基本的了解。如果需要提升 React 技能，请查看我[React 基础课程](https://nextjs.org/learn/react-foundations)入门基础知识，同时通过构建一个Landing Pages进一步学习[ Next.js](https://nextjs.org/learn/dashboard-app)。
+为了充分利用Next.js，建议对 HTML、CSS 和 React 有基本的了解。如果需要提升 React ，请查看[React 基础课程](https://nextjs.org/learn/react-foundations)入门基础知识，同时如果希望一步学习[ Next.js](https://nextjs.org/learn/dashboard-app)。建议从构建一个Landing Pages开始。
 
-Overview of features
+Next.js知识点丨Overview of features
 
-- **Styling**: 
-- **Optimizations**: 
-- **Routing**: 
-- **Search and Pagination**: 
-- **Mutating Data:** 
-- **Error Handling:** 
-- **Form Validation and Accessibility:**
-- **Authentication**: 
-- **Metadata**: 
+- Styling: 
+- Optimizations: 
+- Routing: 
+- Search and Pagination: 
+- Mutating Data: 
+- Error Handling: 
+- Form Validation and Accessibility:
+- Authentication: 
+- Metadata: 
+
+## 1.检查代码
 
 
-## 1.检查next依赖项是最新的
+
+### 检查Next依赖项
 
 ```
 
@@ -42,9 +45,7 @@ npm install next@latest
 
 ```
 
-## 检查
-
-## 1.检查目录结构
+### 检查目录结构
 1. project/
     这是项目的根目录。
 2. src/
@@ -205,5 +206,5 @@ website/
 - 测试
 - 环境变量
 
-通过创建可重用的组件和统一的样式方案，大大减少了代码重复，同时提高了整体的用户体验。这个过程也突出了在大型项目中保持一致性、类型安全和模块化的重要性。
+通过创建可重用的组件和统一的样式方案的Landing Pages，大大减少了代码重复同时提高了整体的用户体验。
 
