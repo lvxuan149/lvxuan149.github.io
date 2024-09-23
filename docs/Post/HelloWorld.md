@@ -7,6 +7,9 @@ categories:
 tags:
   - Knowledge Management
   -  VuePress
+  -  Git
+  -  Github
+  -  Markdown
 ---
 # 配置0xDragon888博客
 
@@ -54,6 +57,14 @@ docs/.vuepress/styles/index.styl 文件包含了一些自定义样式，这很�
 - 分类（categories）：作为知识管理的主分类，我们日常生活中的分类也都是这种树状分类。
 - 标签（tags）：则是辅助，弥补树状分类的缺陷。
 - 归档（archives）：按照时间顺序排列和归纳博客文章的列表：
+
+## Ref
+
+- [git官网](https://git-scm.com/book/zh/v2)
+- [git简明指南](https://www.runoob.com/manual/git-guide/)
+- [Git基本操作流](https://www.runoob.com/git/git-basic-operations.html)
+- [Markdown中文](http://www.markdown.cn/)
+- [VuePress (opens new window)](https://vuepress.vuejs.org/zh/)
 
 
 ## Changelog
