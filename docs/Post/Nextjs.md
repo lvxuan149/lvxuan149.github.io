@@ -3,9 +3,10 @@ title: Next.js项目采坑复盘
 date: 2024-09-23 09:34:22
 permalink: /post/nextjs
 categories:
-  -Next.js
+  -Code
 tags:
   - Recat
+  - Next.js
   - Front-end
   - LandingPage
 ---
