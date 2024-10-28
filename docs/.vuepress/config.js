@@ -13,7 +13,7 @@ module.exports = {
     ],
     sidebar: 'auto',
     sidebarDepth: 2,
-    logo: '/assets/img/Profile.jpg', // 确保这个文件存在
+    logo: '/img/Profile.jpg', // 简化路径
     author: {
       name: '0xDragon888',
       link: 'https://github.com/lvxuan149'
@@ -46,7 +46,7 @@ module.exports = {
         location: 3,
         text: '标签'
       }
-    }
+    },
   },
   plugins: [
     ['@vuepress/blog', {
