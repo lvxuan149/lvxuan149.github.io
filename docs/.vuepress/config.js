@@ -13,7 +13,7 @@ module.exports = {
     ],
     sidebar: 'auto',
     sidebarDepth: 2,
-    logo: '/img/Profile.jpg', // 简化路径
+    logo: '/img/logo.jpg',  // 确保使用正确的路径
     author: {
       name: '0xDragon888',
       link: 'https://github.com/lvxuan149'
@@ -71,6 +71,11 @@ module.exports = {
         },
       ],
     }],
+  ],
+  // 确保引入样式文件
+  styles: [
+    // 引入自定义样式
+    '/styles/index.styl'
   ],
   // 其他配置...
 }

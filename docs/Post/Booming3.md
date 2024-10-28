@@ -1,3 +1,12 @@
+---
+title: Booming3
+date: 2024-10-29 04:06:57
+permalink: /pages/71e730/
+categories:
+  - Post
+tags:
+  - 
+---
 Booming3的初心
 
 
