@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',  // 修改为 '/'，因为您的仓库名是 lvxuan149.github.io
   title: "0xDragon888's blog",
-  description: '积跬步，记当下，好奇心，定瞬间。',
+  description: '',
   theme: 'vdoing',
   themeConfig: {
     nav: [
