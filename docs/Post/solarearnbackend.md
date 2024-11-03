@@ -1,14 +1,14 @@
 ---
 title: Earn的后端架构思考
-date: 2024-11-13 ··：04
-permalink: /post/Solarearnbacked
+date: 2024-11-03 01:07:22
+permalink: /post/solarearnbacked
 categories:
-  - Code
+  - code
 tags:
-  -  MySQL 
-  -  Prisma
-  -  API 
-  -  Next.js 
+  -  mySQL 
+  -  prisma
+  -  aPI 
+  -  next.js 
 ---
 
 ## 0.背景
