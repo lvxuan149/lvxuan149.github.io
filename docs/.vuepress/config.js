@@ -71,6 +71,7 @@ module.exports = {
         },
       ],
     }],
+    'vuepress-plugin-mermaidjs'
   ],
   // 确保引入样式文件
   styles: [

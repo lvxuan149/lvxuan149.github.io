@@ -197,7 +197,7 @@ npm run dev
    - **Prisma**：作为 ORM 与数据库交互，处理数据模型和 CRUD 操作。
    - **Next.js API**：在 `src/pages/api` 定义 API 路由，处理来自客户端的请求，并使用 Prisma 客户端完成数据操作。
 
-### 8. 总结
+## 4. 总结
 
 使用 MySQL、Prisma 和 Next.js 构建的后端架构具有多种优势，适合快速开发和高效运作的应用程序。
 
